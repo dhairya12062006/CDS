@@ -1,0 +1,14 @@
+Dhairya Thakkar
+24070123037
+E&TC-A2
+
+C++ and Data Structures Semester3
+
+Hello World Program
+#include
+using namespace std;
+
+int main() {
+cout << "Hello, World!";
+return 0;
+}
